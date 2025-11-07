@@ -1,0 +1,33 @@
+body{
+   background-color: rgba(0, 183, 255, 0.301);
+   text-align:center;
+}
+h1{font-size: larger;
+   color:gold;
+   font: weiht 200px;
+ }
+ h2{font-size:larger;
+   colOr:gold;
+}
+p{color:rgb(15, 0, 0);
+}
+li{color:rgb(5, 0, 0);
+}
+p{font-weight:200;
+}
+h3{color:rgb(10, 9, 0);
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 100
+}
+h4{color:rgb(255, 225, 0);
+}
+h4{font-size: large;
+}
+h1{font-size: large;
+font-style:italic;
+}
+  .padre.do.balão.jpeg{width:120%;
+}
+.explicação {
+   color:yellow
+}
